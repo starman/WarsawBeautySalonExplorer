@@ -2,7 +2,7 @@
 
 public record UpdateSalonRequest(
     string Name,
-    string Adress,
+    string Address,
     string District,
     List<string> Services,
     double Rating,

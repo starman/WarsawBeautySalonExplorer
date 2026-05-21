@@ -41,7 +41,8 @@ public class SalonService : ISalonService
     {
         var json = JsonSerializer.Serialize(_salons, new JsonSerializerOptions()
         {
-            WriteIndented = true
+            WriteIndented = true,
+            PropertyNamingPolicy = JsonNamingPolicy.CamelCase
         });
         File.WriteAllText(_filePath, json);
     }
@@ -60,7 +61,7 @@ public class SalonService : ISalonService
         return _salons.Where(s => s.Id == id)
             .Select(s => new SalonDetailsResponse(
                 s.Name,
-                s.Adress,
+                s.Address,
                 s.District,
                 s.Services,
                 s.Rating,
@@ -79,7 +80,7 @@ public class SalonService : ISalonService
         }
 
         salon.Name = request.Name;
-        salon.Adress = request.Adress;
+        salon.Address = request.Address;
         salon.District = request.District;
         salon.Services = request.Services;
         salon.Rating = request.Rating;
