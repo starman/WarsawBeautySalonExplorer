@@ -23,24 +23,19 @@ export default function SalonDetailPage() {
   const [isSaving, setIsSaving] = useState(false);
   const [successMessage, setSuccessMessage] = useState("");
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     if (!salonId) return;
 
     setLoading(true);
-    setError(null);
 
-    getSalon(salonId)
-      .then(setSalon)
-      .catch(() => setError("Failed to load salon"))
-      .finally(() => setLoading(false));
+    getSalon(salonId).then((data) => {
+      setSalon(data);
+      setLoading(false);
+    });
   }, [salonId]);
 
   if (loading) return <div>Loading...</div>;
-
-  if (error) return <div className="text-red-500">{error}</div>;
-
   if (!salon) return <div>Not found</div>;
 
   const handleSave = async (e: React.FormEvent<HTMLFormElement>) => {
@@ -70,7 +65,7 @@ export default function SalonDetailPage() {
       setSuccessMessage("Salon details updated successfully!");
       setTimeout(() => setSuccessMessage(""), 4000);
     } catch (error) {
-      setError("Failed to update salon details");
+      alert("Update failed. Please try again.");
     } finally {
       setIsSaving(false);
     }

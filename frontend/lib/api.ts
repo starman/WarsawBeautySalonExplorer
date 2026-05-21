@@ -1,13 +1,31 @@
 const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:5034/api";
 
 export async function getSalons() {
-  const res = await fetch(`${API_URL}/salons`);
-  return res.json();
+  try {
+    const res = await fetch(`${API_URL}/salons`);
+
+    if (!res.ok) {
+      throw new Error("Failed to fetch salons");
+    }
+
+    return await res.json();
+  } catch (error) {
+    return [];
+  }
 }
 
 export async function getSalon(id: string) {
-  const res = await fetch(`${API_URL}/salons/${id}`);
-  return res.json();
+  try {
+    const res = await fetch(`${API_URL}/salons/${id}`);
+
+    if (!res.ok) {
+      throw new Error("Failed to fetch salon");
+    }
+
+    return await res.json();
+  } catch (error) {
+    return null;
+  }
 }
 
 export async function updateSalon(id: string, data: any) {
@@ -19,8 +37,8 @@ export async function updateSalon(id: string, data: any) {
     body: JSON.stringify(data),
   });
 
-  if (!res.ok) throw new Error("Failed to parse update request");
+  if (!res.ok) throw new Error("Failed to update salon");
 
-  if (res.status === 204) return {};
+  if (res.status === 204) return null;
   return res.json();
 }
