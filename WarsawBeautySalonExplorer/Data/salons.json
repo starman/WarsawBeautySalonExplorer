@@ -1,1526 +1,1526 @@
 [
   {
-    "Id": "1",
-    "Name": "Minoko beauty space",
-    "Address": "Krochmalna 54, Lokal U8, 00-864",
-    "District": "Wola",
-    "Services": [
+    "id": "1",
+    "name": "Minoko beauty space",
+    "address": "Krochmalna 54, Lokal U8, 00-864",
+    "district": "Wola",
+    "services": [
       "🔥TOKIO INKARAMI+strzyżenie końcówek FIX PRICE🔥",
       "KONSULTACJA Z TRYCHOLOGIEM ESTETYCZNYM",
       "Manicure hybrydowy"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 1343
+    "rating": 5.0,
+    "reviewsCount": 1343
   },
   {
-    "Id": "2",
-    "Name": "WeLoveKeratin® — NANOPLASTIA • KERATYNA • PRZEDŁUŻANIE • FRYZJER",
-    "Address": "Żelazna 67, 28L, 00-806",
-    "District": "Wola",
-    "Services": [
+    "id": "2",
+    "name": "WeLoveKeratin® — NANOPLASTIA • KERATYNA • PRZEDŁUŻANIE • FRYZJER",
+    "address": "Żelazna 67, 28L, 00-806",
+    "district": "Wola",
+    "services": [
       "PROSTOWANIE KERATYNOWE ZA 400 ZŁ • DOWOLNA DŁUGOŚĆ",
       "GLOSSY HAIR ZA 350 ZŁ • DOWOLNA DŁUGOŚĆ"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 532
+    "rating": 5.0,
+    "reviewsCount": 532
   },
   {
-    "Id": "3",
-    "Name": "TOP Fryzjer Miodowa",
-    "Address": "Miodowa 23, 00-246",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "3",
+    "name": "TOP Fryzjer Miodowa",
+    "address": "Miodowa 23, 00-246",
+    "district": "Śródmieście",
+    "services": [
       "Strzyżenie męskie",
       "Strzyżenie brody/wąsów",
       "Strzyżenie Chłopca"
     ],
-    "Rating": 4.8,
-    "ReviewsCount": 821
+    "rating": 4.8,
+    "reviewsCount": 821
   },
   {
-    "Id": "4",
-    "Name": "Madampadu@ by ANNA PADUCH",
-    "Address": "Łucka 20, u25, 00-842",
-    "District": "Wola",
-    "Services": [
+    "id": "4",
+    "name": "Madampadu@ by ANNA PADUCH",
+    "address": "Łucka 20, u25, 00-842",
+    "district": "Wola",
+    "services": [
       "NOWOŚĆ 🇹🇼 Tajwańskie Hair & Spa",
       "Koloryzacja / Colour",
       "Refleks Madampadu autorska metoda✨"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 199
+    "rating": 4.9,
+    "reviewsCount": 199
   },
   {
-    "Id": "5",
-    "Name": "Salon Urody Super Ciało",
-    "Address": "aleja Solidarności 71, V Klatka Parter, 00-240",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "5",
+    "name": "Salon Urody Super Ciało",
+    "address": "aleja Solidarności 71, V Klatka Parter, 00-240",
+    "district": "Śródmieście",
+    "services": [
       "Baleyage",
       "Czesanie - Włosy długie",
       "Czesanie - Włosy średnie"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 345
+    "rating": 4.9,
+    "reviewsCount": 345
   },
   {
-    "Id": "6",
-    "Name": "SI SALON",
-    "Address": "ulica Siedmiogrodzka 7, 01-204",
-    "District": "Wola",
-    "Services": [
+    "id": "6",
+    "name": "SI SALON",
+    "address": "ulica Siedmiogrodzka 7, 01-204",
+    "district": "Wola",
+    "services": [
       "💅PROMO💅 Manicure + pielęgnacja Podopharm GRATIS",
       "💅PROMO💅 Pedicure + pielęgnacja Podopharm GRATIS",
       "💅PROMO💅 Маnicure + Pedicure (-10%)"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 975
+    "rating": 4.9,
+    "reviewsCount": 975
   },
   {
-    "Id": "7",
-    "Name": "Justi.Hair",
-    "Address": "Marszałkowska 68/70, Lokal 1, 00-545",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "7",
+    "name": "Justi.Hair",
+    "address": "Marszałkowska 68/70, Lokal 1, 00-545",
+    "district": "Śródmieście",
+    "services": [
       "Strzyżenie włosy długie",
       "Strzyżenie włosy średnie (do ramion)",
       "Podcięcie grzywki"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 42
+    "rating": 5.0,
+    "reviewsCount": 42
   },
   {
-    "Id": "8",
-    "Name": "ROZCZOCHRANY HARRY | Fryzjer Damski & Męski | Koloryzacja | Wola – Metro Młynów",
-    "Address": "Sokołowska 11 lok U2, 01-142",
-    "District": "Wola",
-    "Services": [
+    "id": "8",
+    "name": "ROZCZOCHRANY HARRY | Fryzjer Damski & Męski | Koloryzacja | Wola – Metro Młynów",
+    "address": "Sokołowska 11 lok U2, 01-142",
+    "district": "Wola",
+    "services": [
       "Nie wiem jaką usługę wybrać-konsultacja fryzjerska",
       "Konsultacja koloryzacji / baleyage / refleksy",
       "Konsultacja regeneracji włosów"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 2493
+    "rating": 4.9,
+    "reviewsCount": 2493
   },
   {
-    "Id": "9",
-    "Name": "Hair By Wiola Rutkowska",
-    "Address": "Jana Kazimierza 11b, U1, 01-248",
-    "District": "Wola",
-    "Services": [
+    "id": "9",
+    "name": "Hair By Wiola Rutkowska",
+    "address": "Jana Kazimierza 11b, U1, 01-248",
+    "district": "Wola",
+    "services": [
       "Konsultacja",
       "Strzyżenie włosy krótkie",
       "Strzyżenie włosy średnie"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 440
+    "rating": 4.9,
+    "reviewsCount": 440
   },
   {
-    "Id": "10",
-    "Name": "DA BEAUTY STUDIO",
-    "Address": "Jana Zamoyskiego 29, 16, 03-801",
-    "District": "Praga-Południe",
-    "Services": [
+    "id": "10",
+    "name": "DA BEAUTY STUDIO",
+    "address": "Jana Zamoyskiego 29, 16, 03-801",
+    "district": "Praga-Południe",
+    "services": [
       "Pachy",
       "Twarzy",
       "Wąsika"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 60
+    "rating": 5.0,
+    "reviewsCount": 60
   },
   {
-    "Id": "11",
-    "Name": "Brush&Blade",
-    "Address": "Aleje Jerozolimskie 85, Lok.10 /klatka III /piętro 2, 02-001",
-    "District": "Ochota",
-    "Services": [
+    "id": "11",
+    "name": "Brush&Blade",
+    "address": "Aleje Jerozolimskie 85, Lok.10 /klatka III /piętro 2, 02-001",
+    "district": "Ochota",
+    "services": [
       "KONSULTACJA/modeling/cięcie/farba/kosmetyka/Make-u",
       "Strzyżenie męskie EXPRESS (Barber Junior)",
       "Strzyżenie męskie EXPRESS u Szefa"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 519
+    "rating": 5.0,
+    "reviewsCount": 519
   },
   {
-    "Id": "12",
-    "Name": "LILI Fryzjer",
-    "Address": "Broniewskiego 8a, 01-785",
-    "District": "Żoliborz",
-    "Services": [
+    "id": "12",
+    "name": "LILI Fryzjer",
+    "address": "Broniewskiego 8a, 01-785",
+    "district": "Żoliborz",
+    "services": [
       "Strzyżenie męskie",
       "Strzyżenie męskie włosy długie (nożyczkami)",
       "Strzyżenie brody"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 144
+    "rating": 5.0,
+    "reviewsCount": 144
   },
   {
-    "Id": "13",
-    "Name": "GLAM TIME",
-    "Address": "Łopuszańska 22 lok C21 CH MODO, 02-220",
-    "District": "Włochy",
-    "Services": [
+    "id": "13",
+    "name": "GLAM TIME",
+    "address": "Łopuszańska 22 lok C21 CH MODO, 02-220",
+    "district": "Włochy",
+    "services": [
       "Strzyżenie grzywki",
       "Strzyżenie dziecięce do 6 lat",
       "Kolor+refleksy+tonowanie"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 835
+    "rating": 4.9,
+    "reviewsCount": 835
   },
   {
-    "Id": "14",
-    "Name": "Atelier Śródmieście",
-    "Address": "Nowogrodzka 42, 00-695",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "14",
+    "name": "Atelier Śródmieście",
+    "address": "Nowogrodzka 42, 00-695",
+    "district": "Śródmieście",
+    "services": [
       "Konsultacja fryzjerska- usunięcia Henny",
       "Konsultacja fryzjerska",
       "Konsultacja kosmetologiczna"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 1299
+    "rating": 4.9,
+    "reviewsCount": 1299
   },
   {
-    "Id": "15",
-    "Name": "OMG! Beauty Salon",
-    "Address": "ulica Szwedzka 43, lok U5, 03-420",
-    "District": "Praga-Północ",
-    "Services": [
+    "id": "15",
+    "name": "OMG! Beauty Salon",
+    "address": "ulica Szwedzka 43, lok U5, 03-420",
+    "district": "Praga-Północ",
+    "services": [
       "Strzyżenie wł. krótkie",
       "Strzyżenie wł. średnie",
       "Strzyżenie wł. długie"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 368
+    "rating": 5.0,
+    "reviewsCount": 368
   },
   {
-    "Id": "16",
-    "Name": "Salon Fryzjerski Berendowicz&Kublin Warszawa Nowy Świat",
-    "Address": "Nowy Świat 60, wejście od ulicy Ordynackiej, 00-357",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "16",
+    "name": "Salon Fryzjerski Berendowicz&Kublin Warszawa Nowy Świat",
+    "address": "Nowy Świat 60, wejście od ulicy Ordynackiej, 00-357",
+    "district": "Śródmieście",
+    "services": [
       "AIRTOUCH + REGENERACJA + STRZYZENIE",
       "WIOSENNA METAMORFOZA 🌸",
       "PAKIET PO CZAPCE 🥶"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 1584
+    "rating": 4.9,
+    "reviewsCount": 1584
   },
   {
-    "Id": "17",
-    "Name": "BRTLST",
-    "Address": "Mikołaja Kopernika 5, Parter, 00-367",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "17",
+    "name": "BRTLST",
+    "address": "Mikołaja Kopernika 5, Parter, 00-367",
+    "district": "Śródmieście",
+    "services": [
       "Konsultacja",
       "Strzyżenie damskie - YOUNG MASTER",
       "Strzyżenie damskie - MASTER"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 269
+    "rating": 4.9,
+    "reviewsCount": 269
   },
   {
-    "Id": "18",
-    "Name": "HAIRMATE Powiśle",
-    "Address": "Wybrzeże Kościuszkowskie 45, lok. U1, 00-339",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "18",
+    "name": "HAIRMATE Powiśle",
+    "address": "Wybrzeże Kościuszkowskie 45, lok. U1, 00-339",
+    "district": "Śródmieście",
+    "services": [
       "Strzyżenie włosow + trymowanie brody",
       "AIR TOUCH"
     ],
-    "Rating": 4.9,
+    "rating": 4.9,
     "ReviewsCount": 570
   },
   {
-    "Id": "19",
-    "Name": "Accordo Hair Salon | Warszawa Centrum",
-    "Address": "Emilii Plater 47, 00-118",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "19",
+    "name": "Accordo Hair Salon | Warszawa Centrum",
+    "address": "Emilii Plater 47, 00-118",
+    "district": "Śródmieście",
+    "services": [
       "Manicure klasyczny",
       "Manicure hybrydowy",
       "Przedłużanie paznokci"
     ],
-    "Rating": 4.7,
-    "ReviewsCount": 662
+    "rating": 4.7,
+    "reviewsCount": 662
   },
   {
-    "Id": "20",
-    "Name": "TS Line - studio fryzjerskie",
-    "Address": "Bracka 23, 00-032",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "20",
+    "name": "TS Line - studio fryzjerskie",
+    "address": "Bracka 23, 00-032",
+    "district": "Śródmieście",
+    "services": [
       "Strzyżenie damskie",
       "Strzyżenie męskie",
       "Strzyżenie męskie (włosy półdługie/długie)"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 42
+    "rating": 5.0,
+    "reviewsCount": 42
   },
   {
-    "Id": "21",
-    "Name": "Salon Fryzjerski Berendowicz&Kublin Warszawa Złota 48",
-    "Address": "Złota 48/54, 00-120",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "21",
+    "name": "Salon Fryzjerski Berendowicz&Kublin Warszawa Złota 48",
+    "address": "Złota 48/54, 00-120",
+    "district": "Śródmieście",
+    "services": [
       "Strzyżenie damskie + Rytuał Odżywienia",
       "❗SOS❗ dla włosów",
       "Spiralna trwała + strzyżenie + stylizacja + PLEX"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 1096
+    "rating": 5.0,
+    "reviewsCount": 1096
   },
   {
-    "Id": "22",
-    "Name": "ZIAJKIEWICZ Hair & Beauty",
-    "Address": "Nowogrodzka 44/1, 00-514",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "22",
+    "name": "ZIAJKIEWICZ Hair & Beauty",
+    "address": "Nowogrodzka 44/1, 00-514",
+    "district": "Śródmieście",
+    "services": [
       "Konsultacja",
       "Cięcie damskie",
       "Cięcie damskie długie"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 194
+    "rating": 5.0,
+    "reviewsCount": 194
   },
   {
-    "Id": "23",
-    "Name": "HAIRMATE 19.dzielnica",
-    "Address": "Kolejowa 47, lok. U20, 01-210",
-    "District": "Wola",
-    "Services": [
+    "id": "23",
+    "name": "HAIRMATE 19.dzielnica",
+    "address": "Kolejowa 47, lok. U20, 01-210",
+    "district": "Wola",
+    "services": [
       "Air Touch",
       "Dekoloryzacja + koloryzacja + strzyżenie (w cen...",
       "Koloryzacja jednolita"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 4991
+    "rating": 4.9,
+    "reviewsCount": 4991
   },
   {
-    "Id": "24",
-    "Name": "Zoli Studio Art & Hair",
-    "Address": "Stanisława Dygata 3, 01-748",
-    "District": "Żoliborz",
-    "Services": [
+    "id": "24",
+    "name": "Zoli Studio Art & Hair",
+    "address": "Stanisława Dygata 3, 01-748",
+    "district": "Żoliborz",
+    "services": [
       "Konsultacja",
       "Konsultacja przedłużanie włosów",
       "Konsultacja + pierwszy zabieg"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 86
+    "rating": 5.0,
+    "reviewsCount": 86
   },
   {
-    "Id": "25",
-    "Name": "TOP Fryzjer Trocka",
-    "Address": "Trocka 11, 03-563",
-    "District": "Targówek",
-    "Services": [
+    "id": "25",
+    "name": "TOP Fryzjer Trocka",
+    "address": "Trocka 11, 03-563",
+    "district": "Targówek",
+    "services": [
       "Strzyżenie damskie",
       "Strzyżenie damskie z modelowanem",
       "Modelowanie"
     ],
-    "Rating": 4.8,
-    "ReviewsCount": 469
+    "rating": 4.8,
+    "reviewsCount": 469
   },
   {
-    "Id": "26",
-    "Name": "PRZEDŁUŻANIE WŁOSÓW BY NATALY",
-    "Address": "Łucka 18, 00-842",
-    "District": "Wola",
-    "Services": [
+    "id": "26",
+    "name": "PRZEDŁUŻANIE WŁOSÓW BY NATALY",
+    "address": "Łucka 18, 00-842",
+    "district": "Wola",
+    "services": [
       "Przedłużanie włosów (mikro/nano kapsułki) 80-120gr",
       "Przedłużanie włosów ( micro/ nano kapsułki) 50-70g",
       "Przedłużanie włosów 130-150 g"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 32
+    "rating": 5.0,
+    "reviewsCount": 32
   },
   {
-    "Id": "27",
-    "Name": "Tetiana - Hair Stylist (Centrum).",
-    "Address": "Złota 68, 00-821",
-    "District": "Wola",
-    "Services": [
+    "id": "27",
+    "name": "Tetiana - Hair Stylist (Centrum).",
+    "address": "Złota 68, 00-821",
+    "district": "Wola",
+    "services": [
       "Strzyżenie damskie + Mycie + Modelowanie",
       "Strzyżenie męskie + mycie.",
       "Pasemka (efekt woalu)"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 21
+    "rating": 5.0,
+    "reviewsCount": 21
   },
   {
-    "Id": "28",
-    "Name": "PIED-DE-POULE GRZYBOWSKA 4",
-    "Address": "Grzybowska 4, 00-131",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "28",
+    "name": "PIED-DE-POULE GRZYBOWSKA 4",
+    "address": "Grzybowska 4, 00-131",
+    "district": "Śródmieście",
+    "services": [
       "Pedicure podologiczny",
       "Usuwanie odcisków/modzele",
       "Usuwanie kurzajek i brodawek"
     ],
-    "Rating": 4.8,
-    "ReviewsCount": 888
+    "rating": 4.8,
+    "reviewsCount": 888
   },
   {
-    "Id": "29",
-    "Name": "Salon Fryzjerski - SENS by Kaida",
-    "Address": "Stanisława Noakowskiego 12, 14, 00-666",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "29",
+    "name": "Salon Fryzjerski - SENS by Kaida",
+    "address": "Stanisława Noakowskiego 12, 14, 00-666",
+    "district": "Śródmieście",
+    "services": [
       "🌸JESTEM KOBIETĄ🌸",
       "Konsultacja | Consultation",
       "Strzyżenie męskie | Men’s haircut"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 481
+    "rating": 5.0,
+    "reviewsCount": 481
   },
   {
-    "Id": "30",
-    "Name": "KERATYNOWY ZAKĄTEK - NANOPLASTIA KERATYNOWE PROSTOWANIE REGENERACJA",
-    "Address": "Tadeusza Boya-Żeleńskiego 2/U6, Na przeciwko wejścia do galerii Plac Unii Lubelskiej w salonie „O mały włos”, 00-621",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "30",
+    "name": "KERATYNOWY ZAKĄTEK - NANOPLASTIA KERATYNOWE PROSTOWANIE REGENERACJA",
+    "address": "Tadeusza Boya-Żeleńskiego 2/U6, Na przeciwko wejścia do galerii Plac Unii Lubelskiej w salonie „O mały włos”, 00-621",
+    "district": "Śródmieście",
+    "services": [
       "Włosy do końca szyi",
       "Włosy do łopatek",
       "Włosy do linii biustu"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 164
+    "rating": 5.0,
+    "reviewsCount": 164
   },
   {
-    "Id": "31",
-    "Name": "HAIR UP❗️",
-    "Address": "Jugosłowiańska 15, 03-984",
-    "District": "Praga-Południe",
-    "Services": [
+    "id": "31",
+    "name": "HAIR UP❗️",
+    "address": "Jugosłowiańska 15, 03-984",
+    "district": "Praga-Południe",
+    "services": [
       "KONSULTACJA",
       "Trwała Ondulacja",
       "Strzyżenie damskie włosy krótkie"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 449
+    "rating": 4.9,
+    "reviewsCount": 449
   },
   {
-    "Id": "32",
-    "Name": "SAINT HAIR | Przedłużanie i zagęszczanie włosów | Koloryzacja | Fryzjer | BALMAIN",
-    "Address": "Ordynacka 11, 7, 00-364",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "32",
+    "name": "SAINT HAIR | Przedłużanie i zagęszczanie włosów | Koloryzacja | Fryzjer | BALMAIN",
+    "address": "Ordynacka 11, 7, 00-364",
+    "district": "Śródmieście",
+    "services": [
       "KONSULTACJA",
       "KONSULTACJA ONLINE",
       "Odrost jasny"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 105
+    "rating": 5.0,
+    "reviewsCount": 105
   },
   {
-    "Id": "33",
-    "Name": "Salon Urody Beata Troć",
-    "Address": "Senatorska 28, 00-095",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "33",
+    "name": "Salon Urody Beata Troć",
+    "address": "Senatorska 28, 00-095",
+    "district": "Śródmieście",
+    "services": [
       "Strzyżenie męskie z myciem",
       "Strzyżenie wąsy i broda",
       "Cover że strzyżeniem"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 701
+    "rating": 4.9,
+    "reviewsCount": 701
   },
   {
-    "Id": "34",
-    "Name": "HUGZ Hair&Beauty",
-    "Address": "Wilcza 66/68, 1 piętro, 00-679",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "34",
+    "name": "HUGZ Hair&Beauty",
+    "address": "Wilcza 66/68, 1 piętro, 00-679",
+    "district": "Śródmieście",
+    "services": [
       "Keratynowe prostowanie włosów/Keratin",
       "✨ Nanoplastia ✨",
       "🌸 PAKIET – MOM'S HAIR RITUAL 💇‍♀️"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 2408
+    "rating": 4.9,
+    "reviewsCount": 2408
   },
   {
-    "Id": "35",
-    "Name": "Irina Stefurak Hairstylist",
-    "Address": "Mikołaja Kopernika 5, 00-367",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "35",
+    "name": "Irina Stefurak Hairstylist",
+    "address": "Mikołaja Kopernika 5, 00-367",
+    "district": "Śródmieście",
+    "services": [
       "Konsultacja",
       "Pakiet 1. Regeneracja włosów + strzyżenie damskie",
       "Pakiet 3. Regeneracja włosów + strzyżenie + henna"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 67
+    "rating": 5.0,
+    "reviewsCount": 67
   },
   {
-    "Id": "36",
-    "Name": "Smykolandia",
-    "Address": "Szczęśliwicka 49a, 02-106",
-    "District": "Ochota",
-    "Services": [
+    "id": "36",
+    "name": "Smykolandia",
+    "address": "Szczęśliwicka 49a, 02-106",
+    "district": "Ochota",
+    "services": [
       "Ja z Mamą",
       "Ja z Tatą",
       "Ja z Siostrą lub Bratem"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 946
+    "rating": 4.9,
+    "reviewsCount": 946
   },
   {
-    "Id": "37",
-    "Name": "Fryzjer z pasją Sylwia Strzelecka",
-    "Address": "Chmielna 27/9, 00-021",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "37",
+    "name": "Fryzjer z pasją Sylwia Strzelecka",
+    "address": "Chmielna 27/9, 00-021",
+    "district": "Śródmieście",
+    "services": [
       "Koloryzacja wł.długie za łopatki",
       "strzyżenie z cieniowaniem męskie",
       "Kolor Jednolity Krotkie Włosy"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 19
+    "rating": 5.0,
+    "reviewsCount": 19
   },
   {
-    "Id": "38",
-    "Name": "STUDIO PIĘKNA Wawa, przedłużanie włosów, manicure hybrydowy, męski",
-    "Address": "Żelazna 16, 00-806",
-    "District": "Wola",
-    "Services": [
+    "id": "38",
+    "name": "STUDIO PIĘKNA Wawa, przedłużanie włosów, manicure hybrydowy, męski",
+    "address": "Żelazna 16, 00-806",
+    "district": "Wola",
+    "services": [
       "Konsultacja",
       "Zagięszczanie strefowe",
       "Manicure klasyczny"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 14
+    "rating": 5.0,
+    "reviewsCount": 14
   },
   {
-    "Id": "39",
-    "Name": "Beauty Square 19",
-    "Address": "Kolejowa 49A, U5, 01-210",
-    "District": "Wola",
-    "Services": [
+    "id": "39",
+    "name": "Beauty Square 19",
+    "address": "Kolejowa 49A, U5, 01-210",
+    "district": "Wola",
+    "services": [
       "Konsultacja / Consultation",
       "Strzyżenie Damskie / Wowen's Haircut",
       "Grey Blending NEW!"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 733
+    "rating": 4.9,
+    "reviewsCount": 733
   },
   {
-    "Id": "40",
-    "Name": "Dakini KRASNOVA",
-    "Address": "Jana Pawła II 11/Lokal 201, Pietro 2, 00-828",
-    "District": "Wola",
-    "Services": [
+    "id": "40",
+    "name": "Dakini KRASNOVA",
+    "address": "Jana Pawła II 11/Lokal 201, Pietro 2, 00-828",
+    "district": "Wola",
+    "services": [
       "Strzyżenie damskie",
       "Strzyżenie damskie",
       "Strzyżenie damskie"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 49
+    "rating": 5.0,
+    "reviewsCount": 49
   },
   {
-    "Id": "41",
-    "Name": "DAMSKO MĘSKI",
-    "Address": "Stanisława Noakowskiego, 12/19, 00-666",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "41",
+    "name": "DAMSKO MĘSKI",
+    "address": "Stanisława Noakowskiego, 12/19, 00-666",
+    "district": "Śródmieście",
+    "services": [
       "Pielęgnacja NOURISHING Davines",
       "Konsultacja",
       "Front Blond"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 490
+    "rating": 5.0,
+    "reviewsCount": 490
   },
   {
-    "Id": "42",
-    "Name": "Niche Hair",
-    "Address": "Bracka 5, LU 9, 00-501",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "42",
+    "name": "Niche Hair",
+    "address": "Bracka 5, LU 9, 00-501",
+    "district": "Śródmieście",
+    "services": [
       "Analiza włosa",
       "Strzyżenie włosów kręconych",
       "Bio-Peptide k maska"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 46
+    "rating": 5.0,
+    "reviewsCount": 46
   },
   {
-    "Id": "43",
-    "Name": "Just Hair Damian Witkowski",
-    "Address": "Lwowska 17, Lok. 2, 00-660",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "43",
+    "name": "Just Hair Damian Witkowski",
+    "address": "Lwowska 17, Lok. 2, 00-660",
+    "district": "Śródmieście",
+    "services": [
       "Koloryzacja i strzyżenie",
       "Koloryzacja, refleksy i strzyżenie",
       "Dekoloryzacja, koloryzacja i strzyżenie"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 1769
+    "rating": 5.0,
+    "reviewsCount": 1769
   },
   {
-    "Id": "44",
-    "Name": "Salon Urody OD-NOVA Fryzjer, Manicure, Pedicure, Depilacja",
-    "Address": "Kacza 21, 01-064",
-    "District": "Wola",
-    "Services": [
+    "id": "44",
+    "name": "Salon Urody OD-NOVA Fryzjer, Manicure, Pedicure, Depilacja",
+    "address": "Kacza 21, 01-064",
+    "district": "Wola",
+    "services": [
       "OMÓWIENIE I DOBÓR USŁUGI",
       "Strzyżenie damskie + EKSPRESOWA REGENERACJA -50",
       "Koloryzacja wielotonowa (strzyżenie GRATIS)"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 459
+    "rating": 5.0,
+    "reviewsCount": 459
   },
   {
-    "Id": "45",
-    "Name": "STUDIO Grzybowska 61",
-    "Address": "Grzybowska 61, Galeria Platinum Towers, 00-846",
-    "District": "Wola",
-    "Services": [
+    "id": "45",
+    "name": "STUDIO Grzybowska 61",
+    "address": "Grzybowska 61, Galeria Platinum Towers, 00-846",
+    "district": "Wola",
+    "services": [
       "PROMOCJA🔥Pielęgnacja włosów+strz. końcówek za 1zł",
       "Zaliczka na usługi",
       "PROMOCJA 🔥 Masaż klasyczny+ masaż głowy GRATIS"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 986
+    "rating": 4.9,
+    "reviewsCount": 986
   },
   {
-    "Id": "46",
-    "Name": "PRIME HAIR by Gnatyshyn | Warszawa, Wola",
-    "Address": "Kasprzaka 7/u3, 01-211",
-    "District": "Wola",
-    "Services": [
+    "id": "46",
+    "name": "PRIME HAIR by Gnatyshyn | Warszawa, Wola",
+    "address": "Kasprzaka 7/u3, 01-211",
+    "district": "Wola",
+    "services": [
       "🔥 Strzyżenie damskie",
       "🔥 Strzyżenie męskie",
       "Strzyżenie damskie"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 1627
+    "rating": 5.0,
+    "reviewsCount": 1627
   },
   {
-    "Id": "47",
-    "Name": "PristoHair",
-    "Address": "Nowy Świat, 5/11, 00-496",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "47",
+    "name": "PristoHair",
+    "address": "Nowy Świat, 5/11, 00-496",
+    "district": "Śródmieście",
+    "services": [
       "Konsultacje",
       "Strzyżenie Męskie",
       "Strzyżenia mięskie i cover włosów siwych ,mo"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 61
+    "rating": 5.0,
+    "reviewsCount": 61
   },
   {
-    "Id": "48",
-    "Name": "Studio Żurawia",
-    "Address": "Żurawia 26, 00-515",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "48",
+    "name": "Studio Żurawia",
+    "address": "Żurawia 26, 00-515",
+    "district": "Śródmieście",
+    "services": [
       "Strzyżenie damskie (włosy krótkie)",
       "Strzyżenie damskie (włosy średnie i długie)",
       "Grzywka"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 106
+    "rating": 5.0,
+    "reviewsCount": 106
   },
   {
-    "Id": "49",
-    "Name": "Studio Piękności Alicja",
-    "Address": "Platynowa 8, P-03, 00-808",
-    "District": "Wola",
-    "Services": [
+    "id": "49",
+    "name": "Studio Piękności Alicja",
+    "address": "Platynowa 8, P-03, 00-808",
+    "district": "Wola",
+    "services": [
       "Strzyżenie męskie maszynka + nożyczki 💇\u200d♂️",
       "Strzyżenie męskie nożyczkami ✂️",
       "Strzyżenie męskie maszynka+nożyczki+ mycie włosów"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 223
+    "rating": 5.0,
+    "reviewsCount": 223
   },
   {
-    "Id": "50",
-    "Name": "ILDAR MSTQ",
-    "Address": "Aleje Ujazdowskie 24, 21, 00-478",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "50",
+    "name": "ILDAR MSTQ",
+    "address": "Aleje Ujazdowskie 24, 21, 00-478",
+    "district": "Śródmieście",
+    "services": [
       "Konsultacja",
       "Cięcie grzywki",
       "Cięcie damskie"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 106
+    "rating": 5.0,
+    "reviewsCount": 106
   },
   {
-    "Id": "51",
-    "Name": "O WŁOS Pracownia Fryzjerska",
-    "Address": "Bracka 11/13, 00-501",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "51",
+    "name": "O WŁOS Pracownia Fryzjerska",
+    "address": "Bracka 11/13, 00-501",
+    "district": "Śródmieście",
+    "services": [
       "Strzyżenie damskie + modelowanie",
       "Strzyżenie grzywki",
       "Koloryzacja i farbowanie włosów jednotonowe"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 94
+    "rating": 4.9,
+    "reviewsCount": 94
   },
   {
-    "Id": "52",
-    "Name": "Room for Hair M.M Alali ( Pracownia Urody Mood)",
-    "Address": "Chmielna 27, 00-021",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "52",
+    "name": "Room for Hair M.M Alali ( Pracownia Urody Mood)",
+    "address": "Chmielna 27, 00-021",
+    "district": "Śródmieście",
+    "services": [
       "Konsultacja (bezpłatna)",
       "Strzyżenie grzywki",
       "Podcięcie końcówek (bez mycia głowy)"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 135
+    "rating": 5.0,
+    "reviewsCount": 135
   },
   {
-    "Id": "53",
-    "Name": "Express Fryzjer Męskie / Damskie - Hair Cut Men/ Women",
-    "Address": "Rondo Romana Dmowskiego , Podziemia, 22, 00-693",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "53",
+    "name": "Express Fryzjer Męskie / Damskie - Hair Cut Men/ Women",
+    "address": "Rondo Romana Dmowskiego , Podziemia, 22, 00-693",
+    "district": "Śródmieście",
+    "services": [
       "Strzyżenie męskie/ Chłopaki - HairCut Men/ Child",
       "Kombo : Strzyżenie + Mycie / Hair Cut + Wash",
       "Broda / Beard"
     ],
-    "Rating": 4.7,
-    "ReviewsCount": 215
+    "rating": 4.7,
+    "reviewsCount": 215
   },
   {
-    "Id": "54",
-    "Name": "ITTE",
-    "Address": "Nowogrodzka 18, ITTE, 00-515",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "54",
+    "name": "ITTE",
+    "address": "Nowogrodzka 18, ITTE, 00-515",
+    "district": "Śródmieście",
+    "services": [
       "Konsultacja",
       "Strzyżenie damskie",
       "Strzyżenie męskie klasyczne"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 529
+    "rating": 4.9,
+    "reviewsCount": 529
   },
   {
-    "Id": "55",
-    "Name": "Marlena Rose",
-    "Address": "Nowogrodzka 48, 00-695",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "55",
+    "name": "Marlena Rose",
+    "address": "Nowogrodzka 48, 00-695",
+    "district": "Śródmieście",
+    "services": [
       "makijaż dzienny bez aplikacji rzęs",
       "makijaż okolicznościowy/wieczorowy bez rzęs",
       "makijaż okolicznościowy/wieczorowy + rzęsy"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 16
+    "rating": 5.0,
+    "reviewsCount": 16
   },
   {
-    "Id": "56",
-    "Name": "Mariola Cebulska Hair",
-    "Address": "Nowy Świat 5, 00-496",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "56",
+    "name": "Mariola Cebulska Hair",
+    "address": "Nowy Świat 5, 00-496",
+    "district": "Śródmieście",
+    "services": [
       "Konsultacja",
       "Czesanie",
       "Czesanie poza salonem"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 32
+    "rating": 5.0,
+    "reviewsCount": 32
   },
   {
-    "Id": "57",
-    "Name": "Hollywood Hair Wilcza",
-    "Address": "Wilcza 2/4, 00-532",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "57",
+    "name": "Hollywood Hair Wilcza",
+    "address": "Wilcza 2/4, 00-532",
+    "district": "Śródmieście",
+    "services": [
       "PŁAĆ W RATACH - SZYBKIE I WYGODNE",
       "Przedłużanie włosów",
       "Zagęszczanie włosów"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 13
+    "rating": 5.0,
+    "reviewsCount": 13
   },
   {
-    "Id": "58",
-    "Name": "HairsGo",
-    "Address": "Soles 81B, paw. P31, 00-382",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "58",
+    "name": "HairsGo",
+    "address": "Soles 81B, paw. P31, 00-382",
+    "district": "Śródmieście",
+    "services": [
       "Strzyżenie męskie",
       "Strzyżenie zarostu",
       "Strzyżenie damskie"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 89
+    "rating": 5.0,
+    "reviewsCount": 89
   },
   {
-    "Id": "59",
-    "Name": "Le Desir",
-    "Address": "Jasna 19, 00-058",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "59",
+    "name": "Le Desir",
+    "address": "Jasna 19, 00-058",
+    "district": "Śródmieście",
+    "services": [
       "Konsultacja",
       "Masaż głowy",
       "Laminacja paznokci SOLO"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 1385
+    "rating": 5.0,
+    "reviewsCount": 1385
   },
   {
-    "Id": "60",
-    "Name": "TAMDEMS",
-    "Address": "Nowogrodzka 7/9, 00-513",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "60",
+    "name": "TAMDEMS",
+    "address": "Nowogrodzka 7/9, 00-513",
+    "district": "Śródmieście",
+    "services": [
       "Strzyżenie męskie",
       "Strzyżenie damskie wlosy krótkie do 25 cm",
       "Polerowanie wlosow nozyce"
     ],
-    "Rating": 4.7,
-    "ReviewsCount": 70
+    "rating": 4.7,
+    "reviewsCount": 70
   },
   {
-    "Id": "61",
-    "Name": "PRACOWNIA FRYZJERSKA KRZYSZTOF SADOWSKI",
-    "Address": "Ptasia 6, lok. IV, 00-138",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "61",
+    "name": "PRACOWNIA FRYZJERSKA KRZYSZTOF SADOWSKI",
+    "address": "Ptasia 6, lok. IV, 00-138",
+    "district": "Śródmieście",
+    "services": [
       "Strzyżenie męskie",
       "Strzyżenie / Golenie Jedna długość",
       "Strzyżenie brody"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 427
+    "rating": 4.9,
+    "reviewsCount": 427
   },
   {
-    "Id": "62",
-    "Name": "Wocial Cut",
-    "Address": "Bagno 3, Salon fryzjersko-kosmetyczny, 00-112",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "62",
+    "name": "Wocial Cut",
+    "address": "Bagno 3, Salon fryzjersko-kosmetyczny, 00-112",
+    "district": "Śródmieście",
+    "services": [
       "Strzyżenie męskie",
       "Strzyżenie damskie włosy",
       "Koloryzacja włosów jednym kolorem"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 27
+    "rating": 4.9,
+    "reviewsCount": 27
   },
   {
-    "Id": "63",
-    "Name": "KP.PROJECT",
-    "Address": "Chmielna 108, 00-801",
-    "District": "Wola",
-    "Services": [
+    "id": "63",
+    "name": "KP.PROJECT",
+    "address": "Chmielna 108, 00-801",
+    "district": "Wola",
+    "services": [
       "BEAUTY COMBO: manicure + brows",
       "BEAUTY COMBO: MANI & PEDI",
       "BEAUTY COMBO: AMINOKWASOWA REKONSTRUKCJA + BROWS"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 631
+    "rating": 4.9,
+    "reviewsCount": 631
   },
   {
-    "Id": "64",
-    "Name": "PIED-DE-POULE Piękna 49",
-    "Address": "Piękna 49, 00-672",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "64",
+    "name": "PIED-DE-POULE Piękna 49",
+    "address": "Piękna 49, 00-672",
+    "district": "Śródmieście",
+    "services": [
       "Konsultacja kosmetologiczna",
       "Oczyszczanie twarzy",
       "Peeling twarzy Simildiet"
     ],
-    "Rating": 4.8,
-    "ReviewsCount": 1179
+    "rating": 4.8,
+    "reviewsCount": 1179
   },
   {
-    "Id": "65",
-    "Name": "Art Space",
-    "Address": "Złota 75a, Parter, 00-819",
-    "District": "Wola",
-    "Services": [
+    "id": "65",
+    "name": "Art Space",
+    "address": "Złota 75a, Parter, 00-819",
+    "district": "Wola",
+    "services": [
       "Konsultacja rozszerzona",
       "✂️ STRZYŻENIE DAMSKIE",
       "✂️ STRZYŻENIE GRZYWKI"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 245
+    "rating": 5.0,
+    "reviewsCount": 245
   },
   {
-    "Id": "66",
-    "Name": "CzyToBlond",
-    "Address": "Koszykowa 53, 00-544",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "66",
+    "name": "CzyToBlond",
+    "address": "Koszykowa 53, 00-544",
+    "district": "Śródmieście",
+    "services": [
       "Grzywka",
       "Toner + modelowanie",
       "Toner+strzyżenie"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 387
+    "rating": 5.0,
+    "reviewsCount": 387
   },
   {
-    "Id": "67",
-    "Name": "Hair Therapy Wojciech Gerka - Trycholog - Fryzjer - Makijaż",
-    "Address": "Sienna 72, lok 02, 00-833",
-    "District": "Wola",
-    "Services": [
+    "id": "67",
+    "name": "Hair Therapy Wojciech Gerka - Trycholog - Fryzjer - Makijaż",
+    "address": "Sienna 72, lok 02, 00-833",
+    "district": "Wola",
+    "services": [
       "Strzyżenie męskie",
       "Cover - Retusz Siwych Włosów",
       "Strzyżenie Męskie Włosy Średnie"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 52
+    "rating": 5.0,
+    "reviewsCount": 52
   },
   {
-    "Id": "68",
-    "Name": "lubihair",
-    "Address": "Poznańska 5, 00-680",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "68",
+    "name": "lubihair",
+    "address": "Poznańska 5, 00-680",
+    "district": "Śródmieście",
+    "services": [
       "Konsultacja",
       "Strzyżenie damskie",
       "Koloryzacja jednolita + strzyżenie + modelowanie"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 711
+    "rating": 5.0,
+    "reviewsCount": 711
   },
   {
-    "Id": "69",
-    "Name": "Hair Zone",
-    "Address": "Grochowska 221, U2, 04-077",
-    "District": "Praga-Południe",
-    "Services": [
+    "id": "69",
+    "name": "Hair Zone",
+    "address": "Grochowska 221, U2, 04-077",
+    "district": "Praga-Południe",
+    "services": [
       "Strzyżenie męskie maszynką i nożyczkami",
       "Strzyżenie męskie maszynką",
       "Strzyżenie męskie nożyczkami"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 664
+    "rating": 4.9,
+    "reviewsCount": 664
   },
   {
-    "Id": "70",
-    "Name": "Forma Hair Design",
-    "Address": "Przyokopowa 33, 01-208",
-    "District": "Wola",
-    "Services": [
+    "id": "70",
+    "name": "Forma Hair Design",
+    "address": "Przyokopowa 33, 01-208",
+    "district": "Wola",
+    "services": [
       "KONSULTACJA - MEZOTERAPIA / STYMULATORY",
       "Stymulatory Tkankowe - Twarz lub Szyja / Dekolt",
       "Stymulatory Tkankowe - Twarz / Szyja / Dekolt"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 242
+    "rating": 5.0,
+    "reviewsCount": 242
   },
   {
-    "Id": "71",
-    "Name": "Kalinowski Beauty Team",
-    "Address": "Emilii Plater 10, 00-669",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "71",
+    "name": "Kalinowski Beauty Team",
+    "address": "Emilii Plater 10, 00-669",
+    "district": "Śródmieście",
+    "services": [
       "Przekłuwanie uszu /kolczyki z cyrkonia Svarowski",
       "Elektrokoagulacja /usuwanie włóniaków brodawek/",
       "dermapen mezoterapia mikroigłowa peptydy miedziowe"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 519
+    "rating": 5.0,
+    "reviewsCount": 519
   },
   {
-    "Id": "72",
-    "Name": "Miss_hair",
-    "Address": "Leona Kruczkowskiego, 12 a, 00-380",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "72",
+    "name": "Miss_hair",
+    "address": "Leona Kruczkowskiego, 12 a, 00-380",
+    "district": "Śródmieście",
+    "services": [
       "KERATYNOWE PROSTOWANIE / WYGŁADZANIE WŁOSÓW",
       "BIOPLASTIA"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 100
+    "rating": 5.0,
+    "reviewsCount": 100
   },
   {
-    "Id": "73",
-    "Name": "Beauty Space «JA»",
-    "Address": "aleja Jana Pawła II 43A, 34A, 01-001",
-    "District": "Wola",
-    "Services": [
+    "id": "73",
+    "name": "Beauty Space «JA»",
+    "address": "aleja Jana Pawła II 43A, 34A, 01-001",
+    "district": "Wola",
+    "services": [
       "Konsultacja",
       "Strzyżenie męskie",
       "Strzyżenie końcówek na sucho"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 776
+    "rating": 4.9,
+    "reviewsCount": 776
   },
   {
-    "Id": "74",
-    "Name": "MALINA HAIR, Julia Malyna, Pańska 96, 00-837, Warszawa, Wola",
-    "Address": "Pańska 96, 00-837",
-    "District": "Wola",
-    "Services": [
+    "id": "74",
+    "name": "MALINA HAIR, Julia Malyna, Pańska 96, 00-837, Warszawa, Wola",
+    "address": "Pańska 96, 00-837",
+    "district": "Wola",
+    "services": [
       "Konsultacja",
       "Stylizacja i podcięcie grzywki",
       "Strzyżenie damskie (z umyciem głowy)/(średnie włos"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 67
+    "rating": 5.0,
+    "reviewsCount": 67
   },
   {
-    "Id": "75",
-    "Name": "PMU_O.SWOJA",
-    "Address": "Żelazna, 00-866",
-    "District": "Wola",
-    "Services": [
+    "id": "75",
+    "name": "PMU_O.SWOJA",
+    "address": "Żelazna, 00-866",
+    "district": "Wola",
+    "services": [
       "SALE❤️‍🔥▪️Keratynowe prostowanie włosów(krótkie)",
       "❤️‍🔥▪️Keratynowe prostowani(średnie)",
       "❤️‍🔥▪️Keratynowe prostowanie(długie)"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 21
+    "rating": 5.0,
+    "reviewsCount": 21
   },
   {
-    "Id": "76",
-    "Name": "Friends Hair & Beauty",
-    "Address": "Aleje Jerozolimskie 99, 25, 02-001",
-    "District": "Ochota",
-    "Services": [
+    "id": "76",
+    "name": "Friends Hair & Beauty",
+    "address": "Aleje Jerozolimskie 99, 25, 02-001",
+    "district": "Ochota",
+    "services": [
       "Koloryzacja jednolita (podstawowa) ze strzyżeniem",
       "Koloryzacja wielotonowa",
       "Refleksy / Balejaż / Pasemka + strzyżenie"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 247
+    "rating": 5.0,
+    "reviewsCount": 247
   },
   {
-    "Id": "77",
-    "Name": "Korsak Beauty Bar",
-    "Address": "Brylowska 6, Lok.4, 01-216",
-    "District": "Wola",
-    "Services": [
+    "id": "77",
+    "name": "Korsak Beauty Bar",
+    "address": "Brylowska 6, Lok.4, 01-216",
+    "district": "Wola",
+    "services": [
       "PROSTOWANIE ODROSTÓW"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 565
+    "rating": 5.0,
+    "reviewsCount": 565
   },
   {
-    "Id": "78",
-    "Name": "Magia Urody IM",
-    "Address": "Żelazna 67, Paw. 19, 00-871",
-    "District": "Wola",
-    "Services": [
+    "id": "78",
+    "name": "Magia Urody IM",
+    "address": "Żelazna 67, Paw. 19, 00-871",
+    "district": "Wola",
+    "services": [
       "Strzyżenie męskie",
       "Koloryzacja włosów + strzyżenie i modelowanie",
       "Olaplex"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 18
+    "rating": 5.0,
+    "reviewsCount": 18
   },
   {
-    "Id": "79",
-    "Name": "AR.HAIR ROOM",
-    "Address": "Żelazna 67, 30, 00-871",
-    "District": "Wola",
-    "Services": [
+    "id": "79",
+    "name": "AR.HAIR ROOM",
+    "address": "Żelazna 67, 30, 00-871",
+    "district": "Wola",
+    "services": [
       "Konsultacja"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 59
+    "rating": 4.9,
+    "reviewsCount": 59
   },
   {
-    "Id": "80",
-    "Name": "Svitlana Stetsiuk Fryzjer/ kolorysta",
-    "Address": "Wilcza 28, 00-538",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "80",
+    "name": "Svitlana Stetsiuk Fryzjer/ kolorysta",
+    "address": "Wilcza 28, 00-538",
+    "district": "Śródmieście",
+    "services": [
       "Konsultacja fryzjera",
       "Podcięcie grzywki",
       "Podcięcie końcówek (bez mycia)"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 83
+    "rating": 5.0,
+    "reviewsCount": 83
   },
   {
-    "Id": "81",
-    "Name": "Keratin_by_juliia",
-    "Address": "Flory 7, 00-586",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "81",
+    "name": "Keratin_by_juliia",
+    "address": "Flory 7, 00-586",
+    "district": "Śródmieście",
+    "services": [
       "Konsultacja",
       "Laminowanie włosów",
       "Deep hydro spa od Hadat"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 72
+    "rating": 5.0,
+    "reviewsCount": 72
   },
   {
-    "Id": "82",
-    "Name": "Kameleon",
-    "Address": "aleja \"Solidarności\" 82, 00-140",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "82",
+    "name": "Kameleon",
+    "address": "aleja \"Solidarności\" 82, 00-140",
+    "district": "Śródmieście",
+    "services": [
       "Studencka zniżka strzyżenie damskie",
       "Studencka zniżka strzyżenie męskie"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 751
+    "rating": 4.9,
+    "reviewsCount": 751
   },
   {
-    "Id": "83",
-    "Name": "Slovianka Przedłużanie Włosów",
-    "Address": "Ludna 2, 00-406",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "83",
+    "name": "Slovianka Przedłużanie Włosów",
+    "address": "Ludna 2, 00-406",
+    "district": "Śródmieście",
+    "services": [
       "Konsultacja przedłużania włosów",
       "Pakiet wiosenny „Rozkwit\"",
       "SPA dla skóry głowy i włosów"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 105
+    "rating": 5.0,
+    "reviewsCount": 105
   },
   {
-    "Id": "84",
-    "Name": "Przystanek cięcie",
-    "Address": "Sienna, 93/24, 00-815",
-    "District": "Wola",
-    "Services": [
+    "id": "84",
+    "name": "Przystanek cięcie",
+    "address": "Sienna, 93/24, 00-815",
+    "district": "Wola",
+    "services": [
       "Konsultacja / Consultation",
       "Strzyżenie damskie / Women’s Haircut",
       "Strzyżenie męskie / Gentlemen’s Haircut"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 1100
+    "rating": 5.0,
+    "reviewsCount": 1100
   },
   {
-    "Id": "85",
-    "Name": "Fryzjer Adrian Szymański",
-    "Address": "Jana Pawla II 41a, 13a, 01-001",
-    "District": "Wola",
-    "Services": [
+    "id": "85",
+    "name": "Fryzjer Adrian Szymański",
+    "address": "Jana Pawla II 41a, 13a, 01-001",
+    "district": "Wola",
+    "services": [
       "Czesanie okolicznościowe cena od:",
       "Modelowanie włosów",
       "Strzyżenie Damskie cena od:"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 283
+    "rating": 4.9,
+    "reviewsCount": 283
   },
   {
-    "Id": "86",
-    "Name": "Salon Fryzjerski LUSIA",
-    "Address": "Tarczyńska 3, 02-025",
-    "District": "Ochota",
-    "Services": [
+    "id": "86",
+    "name": "Salon Fryzjerski LUSIA",
+    "address": "Tarczyńska 3, 02-025",
+    "district": "Ochota",
+    "services": [
       "Strzyżenie męskie",
       "Strzyżenie damskie",
       "Koloryzacja jednotonowa"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 278
+    "rating": 5.0,
+    "reviewsCount": 278
   },
   {
-    "Id": "87",
-    "Name": "Hair Make Up artist",
-    "Address": "Siedmiogrodzka 3, 01-204",
-    "District": "Wola",
-    "Services": [
+    "id": "87",
+    "name": "Hair Make Up artist",
+    "address": "Siedmiogrodzka 3, 01-204",
+    "district": "Wola",
+    "services": [
       "Fryzura ślubna/wiecorowa",
       "Makijaz dzienny",
       "Makijaz wieczorowy"
     ],
-    "Rating": 4.8,
-    "ReviewsCount": 94
+    "rating": 4.8,
+    "reviewsCount": 94
   },
   {
-    "Id": "88",
-    "Name": "ARCYCIĘCIE",
-    "Address": "Mokotowska 3, 00-640",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "88",
+    "name": "ARCYCIĘCIE",
+    "address": "Mokotowska 3, 00-640",
+    "district": "Śródmieście",
+    "services": [
       "Peeling",
       "Strzyżenie męskie",
       "Strzyżenie męskie włosy długie"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 1967
+    "rating": 4.9,
+    "reviewsCount": 1967
   },
   {
-    "Id": "89",
-    "Name": "Anna Mishka",
-    "Address": "Płocka 17/lokal 20, 01-231",
-    "District": "Wola",
-    "Services": [
+    "id": "89",
+    "name": "Anna Mishka",
+    "address": "Płocka 17/lokal 20, 01-231",
+    "district": "Wola",
+    "services": [
       "Strzyżenie damskie",
       "Strzyżenie końcówek (końcówek+ grzywki)",
       "Grzywka"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 98
+    "rating": 5.0,
+    "reviewsCount": 98
   },
   {
-    "Id": "90",
-    "Name": "Pod Włos",
-    "Address": "Nowogrodzka, 48/33, 00-695",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "90",
+    "name": "Pod Włos",
+    "address": "Nowogrodzka, 48/33, 00-695",
+    "district": "Śródmieście",
+    "services": [
       "Strzyżenie włosów krótkich",
       "Strzyżenie włosów średniej długości",
       "Strzyżenie włosów długich"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 38
+    "rating": 5.0,
+    "reviewsCount": 38
   },
   {
-    "Id": "91",
-    "Name": "Effectownia Hair Design",
-    "Address": "Narbutta 83 lok.U7, 02-524",
-    "District": "Mokotów",
-    "Services": [
+    "id": "91",
+    "name": "Effectownia Hair Design",
+    "address": "Narbutta 83 lok.U7, 02-524",
+    "district": "Mokotów",
+    "services": [
       "Konsultacja fryzjerska",
       "Strzyżenie Damskie / Women's Haircut",
       "Strzyżenie Męskie / Gentlemen's Haircut"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 633
+    "rating": 5.0,
+    "reviewsCount": 633
   },
   {
-    "Id": "92",
-    "Name": "WILCZA HAIR AND BEAUTY",
-    "Address": "Wilcza 14B/12, 00-532",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "92",
+    "name": "WILCZA HAIR AND BEAUTY",
+    "address": "Wilcza 14B/12, 00-532",
+    "district": "Śródmieście",
+    "services": [
       "KONSULTACJA",
       "PAKIET TRWAŁA ONDULACJA I STRZYŻENIE MĘSKIE",
       "STRZYŻENIE MĘSKIE"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 385
+    "rating": 5.0,
+    "reviewsCount": 385
   },
   {
-    "Id": "93",
-    "Name": "Magiczna Keratyna ✨Nanoplastia ✨ Keratynowe prostowanie włosów ✨ Warszawa",
-    "Address": "Stefana Batorego 16, lokal 025, 02-591",
-    "District": "Mokotów",
-    "Services": [
+    "id": "93",
+    "name": "Magiczna Keratyna ✨Nanoplastia ✨ Keratynowe prostowanie włosów ✨ Warszawa",
+    "address": "Stefana Batorego 16, lokal 025, 02-591",
+    "district": "Mokotów",
+    "services": [
       "Konsultacja przed zabiegiem prostowania włosów",
       "Całkowita rekonstrukcja włosów - włosy do pasa",
       "Nanoplastia do ramion"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 154
+    "rating": 5.0,
+    "reviewsCount": 154
   },
   {
-    "Id": "94",
-    "Name": "Fryzjerstwo Mirosław Olech",
-    "Address": "Jagiellońska 3, U16, 03-721",
-    "District": "Praga-Północ",
-    "Services": [
+    "id": "94",
+    "name": "Fryzjerstwo Mirosław Olech",
+    "address": "Jagiellońska 3, U16, 03-721",
+    "district": "Praga-Północ",
+    "services": [
       "Konsultacja",
       "Serwis - grzywka - kontury",
       "Strzyżenie"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 512
+    "rating": 5.0,
+    "reviewsCount": 512
   },
   {
-    "Id": "95",
-    "Name": "Cyrulik Kazimierzowska",
-    "Address": "Kazimierzowska 43/d, 02-572",
-    "District": "Mokotów",
-    "Services": [
+    "id": "95",
+    "name": "Cyrulik Kazimierzowska",
+    "address": "Kazimierzowska 43/d, 02-572",
+    "district": "Mokotów",
+    "services": [
       "Strzyżenie damskie",
       "Strzyżenie męskie",
       "Tonowanie siwizny + strzyżenie męskie"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 1879
+    "rating": 4.9,
+    "reviewsCount": 1879
   },
   {
-    "Id": "96",
-    "Name": "Gabinet Fryzjerski Prywatny",
-    "Address": "Jana Pawła II 61/238, 01-031",
-    "District": "Wola",
-    "Services": [
+    "id": "96",
+    "name": "Gabinet Fryzjerski Prywatny",
+    "address": "Jana Pawła II 61/238, 01-031",
+    "district": "Wola",
+    "services": [
       "Strzyżenie Damskie wł. krótki (do ucha)",
       "Strzyżenie damskie wł. średnie (do ramion)"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 200
+    "rating": 4.9,
+    "reviewsCount": 200
   },
   {
-    "Id": "97",
-    "Name": "Retro Hair Salon",
-    "Address": "aleja Jerzego Waszyngtona, 44/16, 03-910",
-    "District": "Praga-Południe",
-    "Services": [
+    "id": "97",
+    "name": "Retro Hair Salon",
+    "address": "aleja Jerzego Waszyngtona, 44/16, 03-910",
+    "district": "Praga-Południe",
+    "services": [
       "Strzyżenie męskie maszynką 1 długość",
       "Strzyżenie męskie maszynką 2 długości",
       "Strzyżenie męskie maszynką i nożyczkami"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 238
+    "rating": 5.0,
+    "reviewsCount": 238
   },
   {
-    "Id": "98",
-    "Name": "Hollywood Hair Warszawa",
-    "Address": "Belwederska 44, 00-594",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "98",
+    "name": "Hollywood Hair Warszawa",
+    "address": "Belwederska 44, 00-594",
+    "district": "Śródmieście",
+    "services": [
       "PŁAĆ W RATACH - SZYBKIE I WYGODNE",
       "Zagęszczanie włosów",
       "Przedłużanie włosów"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 15
+    "rating": 5.0,
+    "reviewsCount": 15
   },
   {
-    "Id": "99",
-    "Name": "Bellissimo",
-    "Address": "Zytnia 15, 7, 01-014",
-    "District": "Wola",
-    "Services": [
+    "id": "99",
+    "name": "Bellissimo",
+    "address": "Zytnia 15, 7, 01-014",
+    "district": "Wola",
+    "services": [
       "Strzyżenie damskie",
       "Strzyżenie męskie",
       "Modelowanie włosów"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 86
+    "rating": 4.9,
+    "reviewsCount": 86
   },
   {
-    "Id": "100",
-    "Name": "Baff Beauty",
-    "Address": "Bonifraterska 10A lok. U4, 00-203",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "100",
+    "name": "Baff Beauty",
+    "address": "Bonifraterska 10A lok. U4, 00-203",
+    "district": "Śródmieście",
+    "services": [
       "Laminacja rzęs",
       "Farbowanie rzęs",
       "Henna rzęs"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 512
+    "rating": 4.9,
+    "reviewsCount": 512
   },
   {
-    "Id": "101",
-    "Name": "Harmony Hair Lounge",
-    "Address": "Stanisława Żaryna 7, U2, 02-593",
-    "District": "Mokotów",
-    "Services": [
+    "id": "101",
+    "name": "Harmony Hair Lounge",
+    "address": "Stanisława Żaryna 7, U2, 02-593",
+    "district": "Mokotów",
+    "services": [
       "Konsultacja stacjonarna/online",
       "Ampułka regenerująca do usługi",
       "Strzyżenie męskie"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 85
+    "rating": 5.0,
+    "reviewsCount": 85
   },
   {
-    "Id": "102",
-    "Name": "KokArt-color&cut",
-    "Address": "Al.Jerozolimskie 113/115, 02-017",
-    "District": "Ochota",
-    "Services": [
+    "id": "102",
+    "name": "KokArt-color&cut",
+    "address": "Al.Jerozolimskie 113/115, 02-017",
+    "district": "Ochota",
+    "services": [
       "Front Blond",
       "Farbowanie ombre, sombre,baleyage",
       "Farbowanie jeden kolor"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 45
+    "rating": 5.0,
+    "reviewsCount": 45
   },
   {
-    "Id": "103",
-    "Name": "Afro Rose - Afroloki Warkoczyki",
-    "Address": "Dzielna 15, 01-029",
-    "District": "Wola",
-    "Services": [
+    "id": "103",
+    "name": "Afro Rose - Afroloki Warkoczyki",
+    "address": "Dzielna 15, 01-029",
+    "district": "Wola",
+    "services": [
       "Warkoczyki afrykańskie",
       "Afroloki",
       "Konsultacja"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 63
+    "rating": 5.0,
+    "reviewsCount": 63
   },
   {
-    "Id": "104",
-    "Name": "Apogeum Studio Urody",
-    "Address": "Chmielna 5, 00-021",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "104",
+    "name": "Apogeum Studio Urody",
+    "address": "Chmielna 5, 00-021",
+    "district": "Śródmieście",
+    "services": [
       "Strzyżenie męskie",
       "Strzyżenie męskie (tylko nożyczkami)",
       "Modelowanie włosów (modelowanie na szczotkę)"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 304
+    "rating": 5.0,
+    "reviewsCount": 304
   },
   {
-    "Id": "105",
-    "Name": "Di.SE",
-    "Address": "Bonifraterska 10, 41, 00-213",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "105",
+    "name": "Di.SE",
+    "address": "Bonifraterska 10, 41, 00-213",
+    "district": "Śródmieście",
+    "services": [
       "Konsultacja przedłużania włosów➕",
-      "Konsultacja koloryzacji🙌🏻",
+      "Konsultacja koloryzacji🙌aim",
       "Konsultacja modyfikacji włosów"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 273
+    "rating": 5.0,
+    "reviewsCount": 273
   },
   {
-    "Id": "106",
-    "Name": "Queen Keratin by Anett",
-    "Address": "Żelazna 67/lok 19, 00-871",
-    "District": "Wola",
-    "Services": [
+    "id": "106",
+    "name": "Queen Keratin by Anett",
+    "address": "Żelazna 67/lok 19, 00-871",
+    "district": "Wola",
+    "services": [
       "Chce wykonać zabieg nie wiem jaki",
       "Keratin Smooth - Premium (La Clarte)",
       "Ultra Glow - Premium ( La Clarte)"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 37
+    "rating": 5.0,
+    "reviewsCount": 37
   },
   {
-    "Id": "107",
-    "Name": "SALON U CHŁOPAKÓW",
-    "Address": "Wojciecha Górskiego 6, lok. 22 , klatka II, 00-033",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "107",
+    "name": "SALON U CHŁOPAKÓW",
+    "address": "Wojciecha Górskiego 6, lok. 22 , klatka II, 00-033",
+    "district": "Śródmieście",
+    "services": [
       "Peeling Oczyszczający Skórę Głowy",
       "Strzyżenie damskie/Haircut Women's",
       "Pielęgnacja Fusio-Dose"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 229
+    "rating": 5.0,
+    "reviewsCount": 229
   },
   {
-    "Id": "108",
-    "Name": "Oksana Sultanowa – Fryzjer Wola",
-    "Address": "Kolejowa 45A/U23, 01-210",
-    "District": "Wola",
-    "Services": [
+    "id": "108",
+    "name": "Oksana Sultanowa – Fryzjer Wola",
+    "address": "Kolejowa 45A/U23, 01-210",
+    "district": "Wola",
+    "services": [
       "Стрижка женская + укладка / Strzyżenie damskie",
       "Стрижки мужские / Strzyżenie męskie + stylizacja",
       "Стрижка челки / Korekta grzywki"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 32
+    "rating": 5.0,
+    "reviewsCount": 32
   },
   {
-    "Id": "109",
-    "Name": "Patryk Zawadzki - Studio Effect",
-    "Address": "Waliców 19, 00-865",
-    "District": "Wola",
-    "Services": [
+    "id": "109",
+    "name": "Patryk Zawadzki - Studio Effect",
+    "address": "Waliców 19, 00-865",
+    "district": "Wola",
+    "services": [
       "Modelowanie",
       "Strzyżenie damskie",
       "Koloryzacja jednolita"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 34
+    "rating": 5.0,
+    "reviewsCount": 34
   },
   {
-    "Id": "110",
-    "Name": "Mokotowska 55 Hair stylist",
-    "Address": "Mokotowska 55, 00-542",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "110",
+    "name": "Mokotowska 55 Hair stylist",
+    "address": "Mokotowska 55, 00-542",
+    "district": "Śródmieście",
+    "services": [
       "Strzyżenie damskie + modelowanie/ Women's haircut",
       "Koloryzacja jednotonowa/ One tone hair colouring",
       "Modelowanie / Styling"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 380
+    "rating": 4.9,
+    "reviewsCount": 380
   },
   {
-    "Id": "111",
-    "Name": "Strefa Cięcia",
-    "Address": "Władysława Andersa 22 , Warszawa, 00-201",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "111",
+    "name": "Strefa Cięcia",
+    "address": "Władysława Andersa 22 , Warszawa, 00-201",
+    "district": "Śródmieście",
+    "services": [
       "Strzyżenie męskie",
       "Strzyżenie męskie maszynką",
       "Strzyżenie damskie + modelowanie"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 316
+    "rating": 4.9,
+    "reviewsCount": 316
   },
   {
-    "Id": "112",
-    "Name": "Fryz Kamila",
-    "Address": "Złota, 73, 00-819",
-    "District": "Wola",
-    "Services": [
+    "id": "112",
+    "name": "Fryz Kamila",
+    "address": "Złota, 73, 00-819",
+    "district": "Wola",
+    "services": [
       "Strzyżenie męskie",
       "Strzyżenie damskie",
       "Farbowanie"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 128
+    "rating": 4.9,
+    "reviewsCount": 128
   },
   {
-    "Id": "113",
-    "Name": "Elena brows&hair",
-    "Address": "Solidarności\" 117 wejście of Al.Jana Pawla, obok sklepu Żabka, piętro 2, lokal 201, drzwi 201c, 00-140",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "113",
+    "name": "Elena brows&hair",
+    "address": "Solidarności\" 117 wejście of Al.Jana Pawla, obok sklepu Żabka, piętro 2, lokal 201, drzwi 201c, 00-140",
+    "district": "Śródmieście",
+    "services": [
       "Regulacja modelowanie brwi",
       "Henna brwi",
       "Regulacja + henna brwi"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 61
+    "rating": 5.0,
+    "reviewsCount": 61
   },
   {
-    "Id": "114",
-    "Name": "Wayofblonde Fryzjer Warszawa",
-    "Address": "Narbutta 22, 4, 02-512",
-    "District": "Mokotów",
-    "Services": [
+    "id": "114",
+    "name": "Wayofblonde Fryzjer Warszawa",
+    "address": "Narbutta 22, 4, 02-512",
+    "district": "Mokotów",
+    "services": [
       "Strzyżenie Damskie",
       "Tonowanie - Plex GRATIS",
       "Koloryzacja AIR-TOUCH- Plex GRATIS"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 427
+    "rating": 5.0,
+    "reviewsCount": 427
   },
   {
-    "Id": "115",
-    "Name": "Fryzjer Svetlana Zolatava",
-    "Address": "Nowolipki 13, Wejście do Salonu Beauty Gaja, 00-151",
-    "District": "Śródmieście",
-    "Services": [
+    "id": "115",
+    "name": "Fryzjer Svetlana Zolatava",
+    "address": "Nowolipki 13, Wejście do Salonu Beauty Gaja, 00-151",
+    "district": "Śródmieście",
+    "services": [
       "Konsultacja",
       "Strzyżenie Włosów Kręconych Curly Haircut",
       "Strzyżenie Nożem Chińskim (Brzytwą)"
     ],
-    "Rating": 5.0,
-    "ReviewsCount": 153
+    "rating": 5.0,
+    "reviewsCount": 153
   },
   {
-    "Id": "116",
-    "Name": "Przystanek Fryzjer / Barber Shop Ochota",
-    "Address": "Elizy Orzeszkowej 8, 02-374",
-    "District": "Ochota",
-    "Services": [
+    "id": "116",
+    "name": "Przystanek Fryzjer / Barber Shop Ochota",
+    "address": "Elizy Orzeszkowej 8, 02-374",
+    "district": "Ochota",
+    "services": [
       "3 STOPNIOWY RYTUAŁ REGENERACJI MODELOWANIE 🔥🔥",
       "3 STOPNIOWY RYTUAŁ REGENERACJI + STRZYŻENIE ☀️☀️",
       "PAKIET MARZEŃ 💎💎💎OBOWIĄZUJE TYLKO W CZERWCU"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 631
+    "rating": 4.9,
+    "reviewsCount": 631
   },
   {
-    "Id": "117",
-    "Name": "Hair Studio by Nadiia Fedorchuk",
-    "Address": "Ząbkowska 3, 03-735",
-    "District": "Praga-Północ",
-    "Services": [
+    "id": "117",
+    "name": "Hair Studio by Nadiia Fedorchuk",
+    "address": "Ząbkowska 3, 03-735",
+    "district": "Praga-Północ",
+    "services": [
       "Polerowanie włosów",
       "Keratynowe prostowanie"
     ],
-    "Rating": 4.9,
-    "ReviewsCount": 148
+    "rating": 4.9,
+    "reviewsCount": 148
   },
   {
-    "Id": "118",
-    "Name": "Fryzjer Mokotów. Salon Exclusive",
-    "Address": "Jana III Sobieskiego 112 Lokal U2, 00-764",
-    "District": "Mokotów",
-    "Services": [
+    "id": "118",
+    "name": "Fryzjer Mokotów. Salon Exclusive",
+    "address": "Jana III Sobieskiego 112 Lokal U2, 00-764",
+    "district": "Mokotów",
+    "services": [
       "Manicure z odżywką",
       "Manicure z odżywką + zdjęcie hybrydy",
       "Manicure VINYLUX"
     ],
-    "Rating": 4.8,
-    "ReviewsCount": 2447
+    "rating": 4.8,
+    "reviewsCount": 2447
   }
 ]
