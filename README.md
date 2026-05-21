@@ -14,7 +14,7 @@ A web application that allows users to browse, view, and edit hair and beauty sa
  - ASP.NET Core Web API (.NET 10)
  - C#
  - JSON data storing
- - Swagger UI enabled for API testing and endpoint exploration
+ - Swagger UI enabled for API testing
     
 
 ## API Endpoints
@@ -24,6 +24,10 @@ Backend exposes the following endpoints:
 - `GET /api/salons` - returns list of salons (id, name, district, rating)
 - `GET /api/salons/{id}` - returns single salon details
 - `PUT /api/salons/{id}` - update salon
+
+## Data Collection
+
+The salon dataset was collected using the Instant Data Scraper browser extension
 
 ## How to run
 
