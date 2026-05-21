@@ -50,6 +50,7 @@ public class SalonService : ISalonService
     public IEnumerable<SalonResponse> GetAll()
     {
         return _salons.Select(s => new SalonResponse(
+            s.Id,
             s.Name,
             s.District,
             s.Rating
