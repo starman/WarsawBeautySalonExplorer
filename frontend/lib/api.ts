@@ -19,5 +19,8 @@ export async function updateSalon(id: string, data: any) {
     body: JSON.stringify(data),
   });
 
+  if (!res.ok) throw new Error("Failed to parse update request");
+
+  if (res.status === 204) return {};
   return res.json();
 }
